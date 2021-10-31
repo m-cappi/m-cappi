@@ -5,7 +5,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nepha199&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   21 mins         ████████████▓░░░░░░░░░░░░   51.28 % 
+Markdown     19 mins         ███████████▓░░░░░░░░░░░░░   46.58 % 
 ```
 <!--END_SECTION:waka-->
 <!--
