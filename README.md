@@ -5,11 +5,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nepha199&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 4 mins    ███████████████▒░░░░░░░░░   61.68 % 
-Markdown     1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.00 % 
-JSON         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Week: 25 October, 2021 - 31 October, 2021
+
+JavaScript   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.68 % 
+Markdown     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.00 % 
+JSON         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.93 % 
+Other        ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.85 % 
+Text         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 % 
 ```
 <!--END_SECTION:waka-->
 <!--
