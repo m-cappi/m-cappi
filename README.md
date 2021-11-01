@@ -5,8 +5,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nepha199&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
 ```text
-JavaScript   21 mins         ████████████▓░░░░░░░░░░░░   51.28 % 
-Markdown     19 mins         ███████████▓░░░░░░░░░░░░░   46.58 % 
+JavaScript   3 hrs 4 mins    ███████████████▒░░░░░░░░░   61.68 % 
+Markdown     1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.00 % 
+JSON         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 <!--
