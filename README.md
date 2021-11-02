@@ -4,7 +4,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nepha199&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img src="https://github.com/nepha199/nepha199/blob/img-waka/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/nepha199/nepha199/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 
 
